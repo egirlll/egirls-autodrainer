@@ -3,8 +3,8 @@
 const STORAGE_KEY = "omsd_selected_item";
 const STORAGE_PRICE_KEY = "omsd_selected_item_price";
 const SESSION_PROMPT_KEY = "omsd_prompt_shown";
-const THRONE_USER = "onemoresend";
-const MEDIA_SERVICE = "https://bopz-pics-production.up.railway.app"
+const THRONE_USER = "relapsebaitt";
+const MEDIA_SERVICE = "https://egirls-pics-production.up.railway.app"
 
 let ALLOWED_ITEMS = [];
 let ITEM_EMOJIS = {};
